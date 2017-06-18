@@ -1,0 +1,12 @@
+{
+  "name": "react-tdd",
+  "version": "1.0.0",
+  "description": "An app built to learn TDD with React",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Matthew Holman",
+  "license": "ISC"
+}
